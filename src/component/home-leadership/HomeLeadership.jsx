@@ -11,17 +11,17 @@ const HomeLeadership = () => {
       <div>
         <h4 className="h4-bold">Leadership</h4>
         <div>
-          <h6>Beranobel Melo</h6>
+          <h6>******</h6>
           <p className='p-bold'>Founder and CEO</p>
-          <p>Beranobel has a long history in social services. He was inspired while working with families in temporary housing seeing similar stories about the shelter experience. With the support of family and friends, he had the courage to start a nonprofit organization.</p>
+          <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. </p>
         </div>
         <div>
-          <h6>Yasmine Bezzaz, PhD</h6>
+          <h6>******</h6>
           <p className='p-bold'>Program Director</p>
-          <p>Yasmine has a PhD in management with a focus on human resources management and organizational behavior. She has studied worker health as well as practices to promote well-being at work at the individual and organizational level. She has completed a one-year research stay at Harvard School of Public Health's Center for Work, Health and Wellbeing through a joint supervision Fulbright grant which allowed her to become acquainted with intervention research and to perfect her methodological tools. Today she is a passionate educator, university lecturer and corporate trainer. Her hobbies include watercolor, creative writing and manual crafts.</p>
+          <p>Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
         </div>
       </div>
     </div>
   )
 }
- export default HomeLeadership
+export default HomeLeadership
